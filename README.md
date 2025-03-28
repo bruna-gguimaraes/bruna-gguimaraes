@@ -23,7 +23,7 @@ Meu nome é <strong>Bruna Guimarães</strong> e sou estudante de <strong>Gestão
 </p>
 
 <p align="left">
-  💼 Trabalhando como **AUXILIAR ADMINISTRIVA/SUPORTE TÉCNICO** na <a href="https://iafa.org.br/">IAFA - UPA ZONA LESTE</a>
+  💼 Trabalhando como <strong>AUXILIAR ADMINISTRIVA/SUPORTE TÉCNICO</strong> na <a href="https://iafa.org.br/">IAFA - UPA ZONA LESTE</a>
 </p>
 
 <p align="left">
@@ -32,7 +32,7 @@ Meu nome é <strong>Bruna Guimarães</strong> e sou estudante de <strong>Gestão
 
 <p align="left">
 <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link="https://www.linkedin.com/in/bruna-guimar%C3%A3es-8b19a0310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruna-guimar%C3%A3es-8b19a0310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app alt="LinkedIn"/></a>
 </p>
 <div>
 <a href="https://github.com/bruna-gguimaraes">
