@@ -34,6 +34,9 @@ Meu nome é <strong>Bruna Guimarães</strong> e sou estudante de <strong>Gestão
   <a href="https://www.linkedin.com/in/bruna-guimar%C3%A3es-8b19a0310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" title="LinkedIn">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="mailto:bruna992gabriele@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail"/>
+</a>
 </p>
 
 <p></p>
