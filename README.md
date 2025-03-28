@@ -31,9 +31,11 @@ Meu nome é <strong>Bruna Guimarães</strong> e sou estudante de <strong>Gestão
 </p>
 
 <p align="left">
-<a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruna-guimar%C3%A3es-8b19a0310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/bruna-guimar%C3%A3es-8b19a0310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
+
 <p></p>
 <p></p>
 <div>
