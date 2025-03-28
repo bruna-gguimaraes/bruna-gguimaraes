@@ -4,10 +4,10 @@
 <h1><strong>Hello World!</strong></h1>
 </p>
 <p>
-Meu nome é <strong>Bruna Guimarães</strong> e sou estudante de <strong>Gestão de TI</strong> pela <strong>UNINTER</strong>, com uma grande paixão por desenvolvimento de software. Atualmente, sou desenvolvedora **Full Stack**, criando soluções que abrangem tanto o front-end quanto o back-end de aplicações.
+Meu nome é <strong>Bruna Guimarães</strong> e sou estudante de <strong>Gestão de TI</strong> pela <strong>UNINTER</strong>, com uma grande paixão por desenvolvimento de software. Atualmente, sou desenvolvedora <strong>Full Stack</strong>, criando soluções que abrangem tanto o front-end quanto o back-end de aplicações.
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 <p align="left">
-  🦄 Minhas Skills: 
+ <strong>🦄 Minhas Skills:</strong>  
 </p>
 <p align="left"> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -23,7 +23,6 @@ Meu nome é <strong>Bruna Guimarães</strong> e sou estudante de <strong>Gestão
 </p>
 
 <p align="left">
-
   💼 Trabalhando como **AUXILIAR ADMINISTRIVA/SUPORTE TÉCNICO** na <a href="https://iafa.org.br/">IAFA - UPA ZONA LESTE</a>
 </p>
 
@@ -33,7 +32,7 @@ Meu nome é <strong>Bruna Guimarães</strong> e sou estudante de <strong>Gestão
 
 <p align="left">
 <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruna-guimar%C3%A3es-8b19a0310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link="https://www.linkedin.com/in/bruna-guimar%C3%A3es-8b19a0310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" alt="LinkedIn"/></a>
 </p>
 <div>
 <a href="https://github.com/bruna-gguimaraes">
