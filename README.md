@@ -1,10 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-# Hello World! 
-Meu nome é Bruna Guimarães e sou estudante de Gestão de TI pela UNINTER, com uma grande paixão por desenvolvimento de software. Atualmente, sou desenvolvedora Full Stack, criando soluções que abrangem tanto o front-end quanto o back-end de aplicações.
+**Hello World!** 
 </p>
-
+<p>
+Meu nome é **Bruna Guimarães** e sou estudante de **Gestão de TI** pela **UNINTER**, com uma grande paixão por desenvolvimento de software. Atualmente, sou desenvolvedora **Full Stack**, criando soluções que abrangem tanto o front-end quanto o back-end de aplicações.
+  
 <p align="left">
   🦄 Minhas Skills: 
 </p>
