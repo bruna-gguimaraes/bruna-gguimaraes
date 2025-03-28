@@ -22,6 +22,9 @@ Meu nome é <strong>Bruna Guimarães</strong> e sou estudante de <strong>Gestão
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
+<p align="left">
+ <strong>💬 Idiomas:</strong>  
+</p>
 <p>
   <img src="https://img.shields.io/badge/Ingl%C3%AAs-Avan%C3%A7ado-0077B5?style=flat-square&logo=english" alt="Inglês Avançado"/>
 <img src="https://img.shields.io/badge/Portugu%C3%AAs-Nativo-00A859?style=flat-square&logo=language" alt="Português Nativo"/>
