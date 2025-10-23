@@ -33,7 +33,7 @@ Meu nome é <strong>Bruna Guimarães</strong> e sou estudante de <strong>Gestão
 </p>
 
 <p align="left">
-  💼 Trabalhando como <strong>AUXILIAR ADMINISTRATIVA/SUPORTE TÉCNICO</strong> na <a href="https://iafa.org.br/">IAFA - UPA ZONA LESTE</a>
+  💼 Trabalhando como <strong>ESTAGIÁRIA DE TI</strong> na <a href="https://iafa.org.br/">@Gualapack Brasil</a>
 </p>
 
 <p align="left">
