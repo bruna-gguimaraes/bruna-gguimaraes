@@ -4,7 +4,7 @@
 <h1><strong>Hello World!</strong></h1>
 </p>
 <p>
-Meu nome é <strong>Bruna Guimarães</strong> e sou estudante de <strong>Gestão de TI</strong> pela <strong>UNINTER</strong>, com uma grande paixão por desenvolvimento de software. Atualmente, sou desenvolvedora <strong>Full Stack</strong>, criando soluções que abrangem tanto o front-end quanto o back-end de aplicações.
+Meu nome é <strong>Bruna Guimarães</strong> e sou Formada de <strong>Gestão de TI</strong> pela <strong>UNINTER</strong>, com uma grande paixão por desenvolvimento de software. Atualmente, sou desenvolvedora <strong>Full Stack</strong>, criando soluções que abrangem tanto o front-end quanto o back-end de aplicações.
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 <p align="left">
  <strong>🦄 Minhas Skills:</strong>  
@@ -33,7 +33,7 @@ Meu nome é <strong>Bruna Guimarães</strong> e sou estudante de <strong>Gestão
 </p>
 
 <p align="left">
-  💼 Trabalhando como <strong>ESTAGIÁRIA DE TI</strong> na <a href="https://bra.gualapack.com/">@Gualapack Brasil</a>
+  💼 Trabalhando como <strong>ASSISTENTE DE TI</strong> na <a href="https://bra.gualapack.com/">@Gualapack Brasil</a>
 </p>
 
 <p align="left">
